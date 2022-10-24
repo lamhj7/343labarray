@@ -30,5 +30,32 @@ const data = {
       prereqs: [159],
       credits: 3,
     },
+    {
+      prefix: "CS",
+      number: 347,
+      title: "Full-stack Web Development",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257214",
+      desc: "This course covers design and development of World Wide Web applications. Students examine protocols, architectures, development languages and facilities, and issues such as accessibility, usability, security and reliability. Students work with a suite of development tools and languages to construct a client or server application that includes a GUI and a database.",
+      prereqs: [343],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 447,
+      title: "Interaction Design",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257217",
+      desc: "Study of and practice with processes, principles, tools, models and techniques for designing interactions between humans and digital products and systems. Topics include physiological and psychological factors affecting interaction design, interaction design processes, interaction models, styles and paradigms, design notations and representations, prototyping, and interaction design evaluation.",
+      prereqs: [343],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 240,
+      title: "Algorithms and Data Structures",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257217",
+      desc: "Students learn how to implement stacks, queues, lists, sets and maps using arrays, linked lists, binary trees, heaps, binary search trees, balanced trees and hashing. Students study graph representations and algorithms. Students analyze recursive and non-recursive algorithms, illustrated by various searching and sorting algorithms. Additional topics may be included as time permits.",
+      prereqs: [159],
+      credits: 3,
+    }
   ],
 };
